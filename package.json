@@ -1,8 +1,8 @@
 {
   "name": "koa-vite",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "koa vite",
-  "main": "index.js",
+  "main": "lib/app.js",
   "author": "tphp",
   "license": "MIT",
   "repository": "tphp/koa-vite",
