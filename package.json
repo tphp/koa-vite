@@ -1,12 +1,13 @@
 {
   "name": "koa-vite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "koa vite",
   "main": "index.js",
   "author": "tphp",
   "license": "MIT",
   "repository": "tphp/koa-vite",
   "dependencies": {
+    "vite": "^2.6.14",
     "koa-web": "^1.2.8"
   },
   "keywords": [
