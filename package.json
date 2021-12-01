@@ -1,6 +1,6 @@
 {
   "name": "koa-vite",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "koa vite",
   "main": "lib/app.js",
   "author": "tphp",
